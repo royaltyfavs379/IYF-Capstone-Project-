@@ -1,0 +1,102 @@
+
+
+
+---
+
+👗 AI Outfit Designer for Tailors
+
+Project Description
+
+AI Outfit Designer for Tailors is a modern web application that allows tailors and customers to design custom outfits digitally using artificial intelligence. The app helps users visualize clothing ideas, generate outfit suggestions, and manage design preferences easily.
+
+Purpose of the Project
+
+This project was built to help tailors and fashion designers simplify the outfit design process by using AI to generate creative clothing ideas. It solves the problem of manual sketching and difficulty in explaining design ideas between customers and tailors.
+
+Tech Stack
+
+React – Used to build the user interface and create a fast, responsive frontend.
+
+Supabase – Handles authentication, database storage, and backend services.
+
+Hugging Face – Provides AI models to generate outfit descriptions and design suggestions.
+
+
+Key Features
+
+User registration and login system
+
+AI-generated outfit design suggestions
+
+Save and manage custom outfit designs
+
+Responsive modern user interface
+
+Dashboard for managing user designs
+
+Secure authentication using Supabase
+
+
+Installation / Setup Steps
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/your-IYF Capstone Project.git
+
+
+2. Navigate into the project folder:
+
+cd your-repository-name
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Create a .env file in the root directory and add the required environment variables.
+
+
+5. Start the development server:
+
+npm run dev
+
+
+
+Required Environment Variables
+
+Create a .env file and add:
+
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_HUGGINGFACE_API_KEY=your_huggingface_api_key
+
+How to Run the Project
+
+After installation, run:
+
+npm run dev
+
+Then open the local server link shown in the terminal (usually http://localhost:5173).
+
+Contribution Guidelines
+
+1. Fork the repository
+
+
+2. Create a new branch
+
+git checkout -b feature-name
+
+
+3. Make your changes and commit
+
+git commit -m "Added new feature"
+
+
+4. Push your branch
+
+git push origin feature-name
+
+
+5. Open a Pull Request
