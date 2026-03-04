@@ -1,0 +1,78 @@
+
+
+---
+
+# Tailoring & Fashion Design App – Project Prompt
+
+## Project Goal 
+
+To build a mobile-friendly tailoring and fashion design app that allows users to create, customize, and manage clothing designs while connecting with professional tailors.
+
+## Target Users
+
+* Fashion design students
+* Professional tailors
+* Boutique owners
+* Individuals who want custom-made clothes
+* Customers who need measurements stored digitally
+
+## Main Features
+
+* User registration and login
+* Profile creation (customer or tailor)
+* Digital body measurement storage
+* Design gallery (browse clothing styles)
+* Custom outfit designer (choose fabric, color, style)
+* Order placement system
+* Order tracking (Pending, In Progress, Completed)
+* Appointment booking with tailor
+* Image upload for design inspiration
+* Notifications for order updates
+
+## Pages / Layout
+
+* Home Page (Introduction and featured designs)
+* Sign Up / Login Page
+* User Dashboard
+* Tailor Dashboard
+* Design Gallery Page
+* Custom Design Page
+* Measurement Page
+* Orders Page
+* Booking / Appointment Page
+* Profile Settings Page
+
+## UI Style Requirements
+
+* Clean and modern fashion-inspired design
+* Soft neutral colors (beige, white, brown, black)
+* Elegant fonts (stylish but readable)
+* High-quality clothing images
+* Card-based layout for designs
+* Responsive design (mobile-first approach)
+* Simple navigation bar at top or bottom
+
+## State Management Needs
+
+* Store logged-in user session
+* Save user measurements
+* Manage order status updates
+* Store selected designs temporarily before checkout
+* Real-time updates for order progress
+
+## Authentication Needs
+
+* Users must sign up and log in
+* Email and password authentication
+* Role-based access (Customer or Tailor)
+* Password reset option
+* Secure data storage
+
+## Design Constraints
+
+* Must be mobile-friendly
+* Must load quickly
+* Simple and easy-to-use interface
+* Secure user data protection
+* Follow modern UI/UX best practices
+* Must work properly on both Android and iPhone browse
